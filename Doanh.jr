@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         Yeumoney Bypasser By Doanh Dz
+// @namespace    http://tampermonkey.net/
+// @version      13.0
+// @description  The Ultimate Yeumoney Bypass by Doanh Dz – Bypasser Tốt Nhất Hiện Tại Cho Yeumoney
+// @author       Doanh Dz
+// @match        *://yeumoney.com/*
+// @match        *://docs.google.com/spreadsheets/*
+// @match        *://docs.google.com/forms/*
+// @require      https://raw.githubusercontent.com/doanhd3939/Doanh-Dz/main/DoanhDzBypasser.js
+// @update       https://raw.githubusercontent.com/doanhd3939/Doanh-Dz/main/DoanhDzBypasser.js
+// @grant        GM_xmlhttpRequest
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @icon         https://tr.rbxcdn.com/180DAY-433e973b5fbc1e8d5cdebd0c6be03472/420/420/Decal/Webp/noFilter
+// ==/UserScript==
